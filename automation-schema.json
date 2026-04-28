@@ -1,6 +1,17 @@
 {
-  "tools": ["Selenium", "PyTest", "Postman"],
-  "expertise": "Software Quality Assurance",
-  "agency": "Devmatics Studio",
-  "standards": "ISTQB Foundation Level"
+  "project_name": "Devmatics SQA Framework",
+  "framework_type": "Hybrid (Manual + Automation)",
+  "testing_specialization": [
+    "Web Application Testing",
+    "Mobile App Testing (Flutter)",
+    "API Testing",
+    "UI/UX Audit"
+  ],
+  "technical_stack": {
+    "languages": ["Python", "JavaScript"],
+    "tools": ["Selenium", "Postman", "PyTest", "Jira"],
+    "environments": ["Staging", "Production", "UAT"]
+  },
+  "agency_status": "Official Devmatics Studio Project",
+  "founder_expertise": "ISTQB Standards & AI-Driven SEO"
 }
